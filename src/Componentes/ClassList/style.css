@@ -1,0 +1,33 @@
+/* styles.css */
+.app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .class-list {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .class-group {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 30%;
+  }
+  
+  .class-group h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
